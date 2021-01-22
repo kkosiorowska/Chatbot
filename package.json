@@ -1,0 +1,19 @@
+{
+  "name": "conf-edui2018-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karolina Kosiorowska",
+  "license": "MIT",
+  "dependencies": {
+    "@types/restify": "^8.4.2",
+    "botbuilder": "^4.11.1",
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {
+    "restify": "^8.5.1"
+  }
+}
